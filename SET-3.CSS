@@ -1,0 +1,48 @@
+#div {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+
+#body{
+    margin: 0;
+    padding: 0 20px;
+    background-color: black;
+    height: 60px;
+   display: flex;
+    border: 5px solid gray;
+    gap: 200px;
+}
+
+#amazon {
+    color: orange;
+    margin: 0 15px;
+}
+
+#account {
+    color: white;
+    padding: 0 10px;
+
+}
+
+#cart {
+    color: white;
+    padding: 0 10px;
+}
+
+#contact {
+    color: white;
+    padding: 0 10px;
+}
+#search Amazon.in{
+    padding: 5px;
+
+}
+
+#search {
+    background-color: #f08804;
+    color: white;
+    padding: 6px 12px;
+}
